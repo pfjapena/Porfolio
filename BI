@@ -1,0 +1,1 @@
+This folder brings together a series of documents in Python, which have been developed within the Business Analytics course to solve real problems in different areas of knowledge.
