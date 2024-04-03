@@ -1,2 +1,2 @@
 # Porfolio
-Portfolio
+This portfolio is about some of the work I have developed in the context of data analytics and machine learning for problem solving in different areas of knowledge. Many of the works presented in this portfolio are supported by the videos that make up the youtube channel Learning Risk Modelling, which aims to democratise the learning of Data Analytics and Machine Learning, and which is hosted at the link: https://www.youtube.com/c/LearningRiskModelling
